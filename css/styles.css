@@ -9,10 +9,9 @@ h1
   margin-top: 100px;
 }
 
-p {
-  text-align: center;
-
-}
+div.container4 {
+  height: 10em;
+  position: relative }
 
 .croissant-photo {
   max-width: 100%;
