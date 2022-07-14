@@ -3,28 +3,12 @@ body {
   margin-top: 100px;
 }
 
-h1,
+h1
+{
+  text-align: center;
+}
+
 p {
   text-align: center;
 }
 
-.croissant-photo {
-  max-width: 100%;
-  border-radius: 10px;
-  display: block;
-  margin: 30px auto;
-}
-
-footer {
-  text-align: center;
-}
-
-footer a {
-  margin: 0 10px;
-  color: grey;
-}
-
-img {
-  display: block;
-  margin: 0 auto;
-}
