@@ -11,12 +11,12 @@ h1
 
 div.container4 {
   margin: 0;
-  background: yellow;
   position: absolute;
-  top: 50%;
+  top: 10%;
   left: 50%;
   margin-right: -50%;
-  transform: translate(-50%, -50%) }
+  transform: translate(-50%, -50%)
+}
 
 .croissant-photo {
   max-width: 100%;
