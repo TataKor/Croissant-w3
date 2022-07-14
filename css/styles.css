@@ -12,8 +12,10 @@ h1
 div.container4 {
   margin: 0;
   position: absolute;
-  margin-left: 30%;
-  margin-right: -30%;
+  margin-left: 40px;
+  margin-right: -40px;
+  width: 60em;
+  text-align: center;
 }
 
 .croissant-photo {
